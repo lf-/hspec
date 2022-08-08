@@ -5,6 +5,7 @@ packages:
   hspec-contrib
   hspec-discover/example
   hspec-discover/integration-test
+  wtf
 
 package hspec
   ghc-options: -Werror
